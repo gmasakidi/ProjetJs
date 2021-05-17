@@ -1,0 +1,134 @@
+{
+    "sofa": [
+        {
+            "id": 399566,
+            "original_title": "INFORMEL OUTDOOR, GRAND CANAPÉ 3 PLACES BAS DOSSIER",
+            "overview": "Habillé de tissu outdoor extensible Sunrise (58% acetate, 38% polyester, 4% élasthanne). Assise capitonnée mousse tri-densité F-S-XS. Dossier et accoudoirs capitonnés mousse bi-densité F-XS. Base sapin massif et multiplis de pin verni à l'eau. Suspensions ressorts.",
+            "poster_path": "assets/img/Sofa1.png",
+            "price": 3290
+        },
+        {
+            "id": 615678,
+            "original_title": "BOMBOM, GRAND CANAPÉ 3 PLACES",
+            "overview": "Avec Bombom, l'artiste et plasticienne Joana Vasconcelos a imaginé un ensemble gourmand de canapés aux formes fluides et organiques, qui se composent et se complètent à l'envi. On retrouve dans les choix coloriels l'optimisme et la créativité de l'artiste : des teintes franches, fraîches, acidulées ou profondes liées par le noir qui vient à la fois les unir et les révéler. Les dossiers, tous mobiles et indépendants, viennent librement ponctuer chaque canapé, permettant à chacun de concevoir son propre confort.",
+            "poster_path": "assets/img/Sofa2.png",
+            "price": 3870
+        },
+        {
+            "id": 460465,
+            "original_title": "SEQUENCE, CANAPÉ 3 PLACES",
+            "overview": "Habillé de cuir massif Loft (ép. 1,9-2,1mm), vachette pleine fleur, pigmentée. Dossiers double profondeur avec mécanisme à balancier, mousse HR 21 kg/m³ et ouate. Coussins d'assise mousse HR bi-densité 35S-35 kg/m³ et fibres. Coussins d'accoudoir mousse HR 25S kg/m³ et fibres. Structure sapin massif, multiplis de pin et panneaux de particules. Suspension sangles élastiques HR. Piétement métal verni finition Anthracite brillant. Existe dans d'autres dimensions.",
+            "poster_path": "assets/img/Sofa3.png",
+            "price": 6050
+        },
+        {
+            "id": 458796,
+            "original_title": "BUBBLE, GRAND CANAPÉ 3 PLACES - TECHNO 3D",
+            "overview": "Imaginé par Sacha Lakic, designer passionné par les technologies de pointe, Bubble, exprime l'équilibre entre innovation, fonction et émotion. Inspiré de formes naturelles et minérales et entièrement réalisé à la main, sa conception a nécessité le développement de tissus extensibles spécifiques qui épousent parfaitement ses formes toutes en rondeur. Avec son style unique, le canapé Bubble, en version droite ou arrondie, est un modèle iconique des collections Roche Bobois.",
+            "poster_path": "assets/img/Sofa4.png",
+            "price": 4370
+        },
+        {
+            "id": 589642,
+            "original_title": "TEMPS CALME, COMPOSITION",
+            "overview": "A partir de 3 éléments - chauffeuse, élément d'angle et pouf - le canapé composable Temps Calme permet une grande liberté de composition. En composition conventionnelle ou en version « oversize » avec chaise longue ce modèle est un véritable appel à la paresse…",
+            "poster_path": "assets/img/Sofa5.png",
+            "price": 7413
+        },
+        {
+            "id": 452103,
+            "original_title": "PROFILE, GRAND CANAPÉ 4 PLACES",
+            "overview": "Habillé de cuir Sierra, vachette, fleur corrigée pigmentée. Mécanisme électrique multipositions transformant chaque place assise en chaise longue - 2 moteurs par place assise, fonctionnement par module de commande digitale à multifonctions et prise USB. (existe en version dossiers relevables à mécanisme manuel). Couette de cuir capitonnée entièrement réalisée à la main. Assise garnie de mousse bi-densité HR 45-35 kg/m3. Dossier en mousse HR 25 kg /m3. Structure en sapin massif et multiplis de pin. Suspension à sangles élastiques HR. Piétement en métal chromé.",
+            "poster_path": "assets/img/Sofa6.png",
+            "price": 8540
+        }
+    ],
+    "armchair" : [
+        {
+            "id": 566325,
+            "original_title": "ASTREA, FAUTEUIL",
+            "overview": "Habillé de tissu Douceur (100% polyester). Assise et dossier mousse HR 40kg/m3. Structure sapin massif et multiplis de pin. Suspension sangles élastiques HR. Base pivotante métal chromé brillant avec système de retour automatique à mémoire de position.",
+            "poster_path": "assets/img/Armchair1.png",
+            "price": 1670
+        },
+        {
+            "id": 745123,
+            "original_title": "SIRA, FAUTEUIL",
+            "overview": "Avoir une bonne suspension, c'est important ! Avec une assise suspendue à un bel arceau en bois en forme de U, Sira assure un confort souple et enveloppant.",
+            "poster_path": "assets/img/Armchair2.png",
+            "price": 2600
+        },
+        {
+            "id": 123156,
+            "original_title": "EDITO, FAUTEUIL",
+            "overview": "Une forme innovante, fluide et organique, due au designer Sacha Lakic, des dimensions contenues, et un confort irréprochable font de Edito une pièce à la fois design et ludique. Il est habillé de tissu techno 3D multi extensible, disponible dans de nombreuses couleurs.",
+            "poster_path": "assets/img/Armchair3.png",
+            "price": 1746
+        },
+        {
+            "id": 896542,
+            "original_title": "BLOGGER 3, FAUTEUIL",
+            "overview": "Le canapé Blogger incite à s'y blottir très confortablement. Recouvert d'un tissu capitonné légèrement structuré, à la fois souple et extensible, ses contours en font un canapé à la fois très original et tout à fait familier.",
+            "poster_path": "assets/img/Armchair4.png",
+            "price": 1560
+        },
+        {
+            "id": 120365,
+            "original_title": "WALRUS, FAUTEUIL",
+            "overview": "Avec NATIV, Raphael Navot a imaginé pour Roche Bobois une collection aux lignes naturelles et organiques : un dialogue entre nature et culture traversé de maîtrise géométrique et de formes spontanées, pour des pièces réalisées en matériaux nobles et de façon artisanale.",
+            "poster_path": "assets/img/Armchair5.png",
+            "price": 1560
+        },
+        {
+            "id": 745632,
+            "original_title": "DOLPHIN, FAUTEUIL",
+            "overview": "Cédric Ragot a dessiné ce fauteuil dont l'assise est suspendue à une structure en bois au dessin inspiré par les cétacés. Habillé de cuir, c'est une véritable pièce de design, aussi élégante que confortable.",
+            "poster_path": "assets/img/Armchair6.png",
+            "price": 2710
+        }
+    ],
+    "table" : [
+        {
+            "id": 854320,
+            "original_title": "SHARK, TABLE BASSE",
+            "overview": "Les pieds qui émergent au-dessus des plateaux de la collection Shark ont les formes organiques des grands squales, sauf qu'ils sont pacifiques.",
+            "poster_path": "assets/img/Table1.png",
+            "price": 2200
+        },
+        {
+            "id": 436521,
+            "original_title": "KUMO, TABLE BASSE",
+            "overview": "D'inspiration japonaise, la collection Kumo, c'est une table basse à deux plateaux et un bout de canapé jamais tout à fait les mêmes : chaque plateau présentera une version unique de la coulée de résine blanche au cœur de la matière dominante, bleu encre. Le tout sur des bases en frêne massif sablé et teinté noir.",
+            "poster_path": "assets/img/Table2.png",
+            "price": 2440
+        },
+        {
+            "id": 754236,
+            "original_title": "SILO, TABLE BASSE",
+            "overview": "Table basse avec piétement composé de cylindres de différents diamètres, en marbre Travertin et acier chromé coloré Kunzite. Plateau en verre fumé Gris épaisseur 10 mm.",
+            "poster_path": "assets/img/Table3.png",
+            "price": 3130
+        },
+        {
+            "id": 459632,
+            "original_title": "VOILES, TABLE BASSE",
+            "overview": "Trois mois de recherche en atelier ont été nécessaire au designer-sculpteur Maurice Barilone pour obtenir les formes aériennes de cet ensemble de tôles cintrées qui composent la base. Elles sont découpées, soumises à une presse de 1500 kg, soudées ensemble et repolies avant de recevoir leur finition. La beauté de ces pièces, c'est l'effet de légèreté associé au métal épais, sublimée par les reflets des galvanisations métallisées (or, cuivre, chrome ou nickel noir) ou dans les sublimes chromes colorés.",
+            "poster_path": "assets/img/Table4.png",
+            "price": 4290
+        },
+        {
+            "id": 785231,
+            "original_title": "GAYA, TABLE BASSE",
+            "overview": "Une marqueterie imbrique trois différents marbres dans cette pièce dessinée par Renaud Thiry : blanc Carrare, noir Marquina et gris Graphite d'Iran.",
+            "poster_path": "assets/img/Table5.png",
+            "price": 3510
+        },
+        {
+            "id": 458963,
+            "original_title": "LTB, TABLE BASSE",
+            "overview": "Table basse en médium laqué (nombreux coloris disponibles) avec 1 table extractible sur 2 côtés à utiliser comme tablette (Hauteur ouverte 52 cm), 1 élément mobile sur 2 des côtés. Base en acier laqué époxy coloris gris graphite. Dimension de la tablette L 60.5 P 40.7 cm. Dimension ouverte L135 x P135 cm.",
+            "poster_path": "assets/img/Table6.png",
+            "price": 2100
+        }
+    ]
+}
